@@ -1,5 +1,7 @@
 ## Історія || The history
 
+> [#11, 20.10.2016](https://www.facebook.com/events/1278761275509374/)
+***
 > [#10, 13.10.2016](https://www.facebook.com/events/1101927746510705/)
 ***
 > [#9, 06.10.2016](https://www.facebook.com/events/1413437695630461/)
