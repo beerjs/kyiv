@@ -50,9 +50,9 @@ Just join us. Usually, we propose one-two topics before the meeting and someone 
 However, noone likes to prepare and often we just extemporize. As an option, two or more topics may be discussed at the same time.
 
 ## Why thursday?
-We spend friday nights with our families and our closest friends. Whereas thursday is almost a week end, and the evening is usually free.
+We spend Friday nights with family and closest friends, whereas Thursday is almost weekend and the evening is usually free.
 
 ## How do we choose a location?
-A day before the meeting we start a poll in our telegram chat, and everyone can vote for one or more most appealing places. When thursday comes, we choose the most voted place and book here a table.
+A day before the meeting we start a poll in our telegram chat, and everyone can vote for one or more most appealing places. When Thursday comes, we choose the most voted place and book a table.
 
 ## [The previous events](./history.md)
