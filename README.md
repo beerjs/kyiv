@@ -20,6 +20,12 @@ BeerJS Kyiv — це регулярні зустрічі київської дж
 Просто приходьте. Зазвичай ми маємо одну-дві теми для обговорення, які хтось пропонує заздалегідь.
 Але дуже часто все проходить імпровізовано, або кілька груп окремо обговорюють якісь теми.
 
+## Чому четвер?
+Вечір п'ятниці ми звикли проводити з сім'єю та/або близькими друзями. Тоді як четвер - майже кінець тижня і у багатьох вечір зазвичай вільний.
+
+## Як обираємо заклад?
+Напередодні зустрічі кожен бажаючий може проголосувати за один або декілька закладів. Голосування проводимо у telegram-чаті. У четвер підбиваємо підсумки голосування, бронюємо столик на зручний час та підтягуємося.
+
 ## [Попередні зустрічі](./history.md)
 
 ------
@@ -42,5 +48,11 @@ There are two rules only: respect others and don't forget to pay for yourself in
 ## How to Become a Speaker
 Just join us. Usually, we propose one-two topics before the meeting and someone takes role of speaker and prepares some material.
 However, noone likes to prepare and often we just extemporize. As an option, two or more topics may be discussed at the same time.
+
+## Why thursday?
+We spend Friday nights with family and closest friends, whereas Thursday is almost weekend and the evening is usually free.
+
+## How do we choose a location?
+A day before the meeting we start a poll in our telegram chat, and everyone can vote for one or more most appealing places. When Thursday comes, we choose the most voted place and book a table.
 
 ## [The previous events](./history.md)
